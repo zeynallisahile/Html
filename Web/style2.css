@@ -1,0 +1,40 @@
+.Title{
+    background-color: rgb(96, 175, 149);
+    border-left: 20px;
+    padding: 10px;
+    text-align: center;
+}
+.Title2{
+    text-align: center;
+}
+.Web{
+    
+    background-color:black;
+    background-position: fixed;
+    padding: 100px;
+    
+}
+.HTML{
+    width: 200px;
+    float: left;
+    height: 19vh;
+    text-align: center;
+    color: white;
+    margin: top;
+}
+.CSS{
+    width: 400px;
+    height: 19vh;
+    text-align: center;
+    color: white;
+    
+}
+
+.More{
+
+    width: 500px;
+    height: 19vh;
+    text-align: center;
+    color: white;
+    
+}
