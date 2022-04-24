@@ -1,0 +1,11 @@
+.Date{
+    background-color: aqua;
+    width: 50px;
+    height: 200px;
+}
+.Time{
+    background-color: rgb(217, 228, 228);
+}
+.Main.Photo{
+    width: 500px;
+}

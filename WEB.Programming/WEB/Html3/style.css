@@ -1,0 +1,39 @@
+.Logo{
+    background-color: rgb(128, 132, 132);
+    width: 180px;
+    height: 40px;
+    text-align: center;
+    color: white;
+}
+.Nav{
+    background-color: rgb(167, 170, 170);
+    width: 500px;
+    height: 40px;
+    text-align: center;
+    color: white;
+    margin-left: 190px;  
+}
+.Column1{
+    background-color: rgb(209, 215, 215);
+    width: 200px;
+    height: 220px;
+    text-align: center;
+    color: white;
+}
+.Column2{
+    background-color: rgb(209, 215, 215);
+    width: 200px;
+    height: 220px;
+    text-align: center;
+    color: white;
+    margin-left:210px ;
+}
+.Asd{
+    background-color: rgb(114, 117, 117);
+    width: 200px;
+    height: 220px;
+    text-align: center;
+    color: white;
+    margin-left:430px ;
+    float: left;
+}
