@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  width: 1280px;
+  margin: auto;
+  min-height: 700px;
+  background-color: white;
+  margin-top: 20px;
+}
+
+.card {
+  margin: 10px;
+  float: left;
+  min-height: 400px;
+}
+/*# sourceMappingURL=style.css.map */
